@@ -1,0 +1,17 @@
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\bin\Debug\net6.0-windows\MiniAppGB.exe
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\bin\Debug\net6.0-windows\MiniAppGB.deps.json
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\bin\Debug\net6.0-windows\MiniAppGB.runtimeconfig.json
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\bin\Debug\net6.0-windows\MiniAppGB.dll
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\bin\Debug\net6.0-windows\MiniAppGB.pdb
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.csproj.AssemblyReference.cache
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.csproj.GenerateResource.cache
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.AssemblyInfoInputs.cache
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.AssemblyInfo.cs
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.csproj.CoreCompileInputs.cache
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.dll
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\refint\MiniAppGB.dll
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.pdb
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.genruntimeconfig.cache
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\ref\MiniAppGB.dll
+C:\Users\a.ippolitov\source\repos\MiniAppGB\MiniAppGB\obj\Debug\net6.0-windows\MiniAppGB.MainForm.resources
